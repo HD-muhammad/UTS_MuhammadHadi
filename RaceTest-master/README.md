@@ -13,7 +13,6 @@ Locking dapat dilakukan pada level tabel. Ketika lock WRITE digunakan oleh suatu
 - run test5.sh
 
 ### Hasil Test
-Sebelum
 ![Before](https://github.com/HD-muhammad/UTS_MuhammadHadi/blob/main/RaceTest-master/screenshot/Before.png)
 
 
