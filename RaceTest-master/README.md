@@ -14,4 +14,15 @@ Locking dapat dilakukan pada level tabel. Ketika lock WRITE digunakan oleh suatu
 
 ### Hasil Test
 Sebelum
+![Before](https://github.com/HD-muhammad/UTS_MuhammadHadi/blob/main/RaceTest-master/screenshot/Before.png)
 
+
+![1st Try](https://github.com/HD-muhammad/UTS_MuhammadHadi/blob/main/RaceTest-master/screenshot/1.png)
+
+![2nd Try](https://github.com/HD-muhammad/UTS_MuhammadHadi/blob/main/RaceTest-master/screenshot/2.png)
+
+![3rd Try](https://github.com/HD-muhammad/UTS_MuhammadHadi/blob/main/RaceTest-master/screenshot/3.png)
+
+![4th Try](https://github.com/HD-muhammad/UTS_MuhammadHadi/blob/main/RaceTest-master/screenshot/4.png)
+
+![5th Try](https://github.com/HD-muhammad/UTS_MuhammadHadi/blob/main/RaceTest-master/screenshot/5.png)
