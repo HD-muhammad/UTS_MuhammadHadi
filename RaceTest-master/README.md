@@ -6,17 +6,4 @@ Race condition adalah suatu kondisi dimana dua atau lebih proses mengakses share
 - run test.sh
 
 
-### Test results
-
-Different amount in 4 times test, even with same initial amount (1000000)
-
-![1st try](https://github.com/hermanka/RaceTest/blob/master/screenshot/1.PNG)
-
-![2nd try](https://github.com/hermanka/RaceTest/blob/master/screenshot/2.PNG)
-
-![3rd try](https://github.com/hermanka/RaceTest/blob/master/screenshot/3.PNG)
-
-![4th try](https://github.com/hermanka/RaceTest/blob/master/screenshot/4.PNG)
-
-
 
