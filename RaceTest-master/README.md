@@ -1,11 +1,5 @@
 # RaceTest
-
-A simple web race example based on [https://blog.tomecek.net/post/test-race-conditions/](https://blog.tomecek.net/post/test-race-conditions/)
-
-- Download or clone to your web server
-- Import racetestDB.sql to your local db machine
-- Change DB configuration on functions.php
-- Make sure rewriteUrl is active on your Apache web server
+Race condition adalah suatu kondisi dimana dua atau lebih proses mengakses shared memory/sumber daya pada saat yang bersamaan dan hasil akhir dari data tersebut tergantung dari proses mana yang terakhir selesai dieksekusi sehingga hasil akhirnya terkadang tidak sesuai dengan yang dikehendaki.
 
 
 ### How to test
